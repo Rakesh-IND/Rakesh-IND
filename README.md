@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakesh
-- 👀 I’m interested in Listening Music
+- 👀 I’m interested in Coding`Listening Music
 - 🌱 I’m currently learning Computer science & engineering
 - 💞️ I’m looking to collaborate on Devepolment(Apps,Webpage,..)
 - 📫 How to reach me rakesh.harilingam@gmail.com
